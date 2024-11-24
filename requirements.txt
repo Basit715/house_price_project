@@ -6,3 +6,5 @@ scipy
 scikit-learn
 ipykernel
 statistics
+xgboost
+catboost
