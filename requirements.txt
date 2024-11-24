@@ -8,3 +8,4 @@ ipykernel
 statistics
 xgboost
 catboost
+stats
